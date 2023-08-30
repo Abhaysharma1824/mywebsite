@@ -1,0 +1,20 @@
+p {
+  color: blueviolet;
+  font-size: 30px;
+}
+header {
+  color: black;
+  font-size: 60px;
+}
+ol {
+  color: brown;
+}
+h1:active {
+  color: blue;
+}
+a {
+  text-decoration: none;
+}
+#back-to-top:hover {
+  color: orange;
+}
